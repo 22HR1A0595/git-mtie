@@ -1,0 +1,10 @@
+Êþº¾   @ 
+       java/lang/Object <init> ()V	  	  
+ 
+  java/lang/System out Ljava/io/PrintStream;  
+hello world
+       java/io/PrintStream  println (Ljava/lang/String;)V   
+day1prog01 Code LineNumberTable main ([Ljava/lang/String;)V 
+SourceFile 	demo.java                       *· ±            	       %     	²  
+¶ ±       
+            
